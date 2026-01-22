@@ -81,7 +81,7 @@ Coffee-Shop-Sales-PowerBI/
 
 ## 👤 Author
 **Alok Walunj**  
-📊 Data Analyst | AI & Analytics Enthusiast  
+📊 Data Analyst | Data Visualization & Business Insights
 
 ---
 
