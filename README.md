@@ -18,10 +18,10 @@ The dashboard focuses on **sales KPIs, trend analysis, product performance, and 
 ## 📷 Dashboard Preview
 
 ### 🔹 Overall Sales Performance
-![Overall Sales Dashboard](screenshots/overview.png)
+![Overall Sales Dashboard](./screenshots/overview.png)
 
 ### 🔹 KPI Summary View
-![KPI Summary](screenshots/kpi-summary.png)
+![KPI Summary](./screenshots/kpi-summary.png)
 
 > 📌 *Screenshots are provided for quick review.  
 > The full interactive dashboard is available via the `.pbix` file.*
