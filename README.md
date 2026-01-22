@@ -108,5 +108,3 @@ This insight can support **staffing, inventory planning, and promotions**.
 - **Data Modeling & Visualization Best Practices**
 
 ---
-
-## 📂 Repository Contents
